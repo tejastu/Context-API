@@ -1,3 +1,10 @@
+Output Screenshots
+For Lnaguage: English
+![2020-10-01 (1)](https://user-images.githubusercontent.com/62276215/94838424-312fee00-0433-11eb-89cf-a5b511d17fb0.png)
+For Language: French
+![2020-10-01 (2)](https://user-images.githubusercontent.com/62276215/94838568-6d634e80-0433-11eb-8e75-9fa3e30096a5.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
